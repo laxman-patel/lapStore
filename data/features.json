@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Wide Selection",
+    "body": "We offer wide range of laptops to buy from. From gaming laptops to professional office laptops, everything is available here.",
+    "iconSrc": "/infinite.svg"
+  },
+  {
+    "title": "Affordable price",
+    "body": "We source all of our laptops from manufacturer directly, so that you get best prices on our platform.",
+    "iconSrc": "/dollar.svg"
+  },
+    {
+    "title": "6 Months Warranty",
+    "body": "You can be relieved and assured about your laptop as we provide 6 months of full replacement warranty in case of any fault.",
+    "iconSrc": "/trust.svg"
+  }
+
+]
